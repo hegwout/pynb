@@ -9,8 +9,7 @@ setup(
     url='https://github.com/hegwout/pynb',
     packages=['pynb'],
     install_requires=[
-        'flask',
-        'sqlite3'
+        'flask'
     ],
     classifiers=[
         'Development Status :: 5 - Production/Stable',
